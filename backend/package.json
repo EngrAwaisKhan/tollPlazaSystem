@@ -1,0 +1,18 @@
+{
+  "name": "tollplaza-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1",
+    "node-modules": "^1.0.1",
+    "nodemon": "^2.0.21"
+  }
+}
